@@ -1,0 +1,25 @@
+# Java class files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Build output
+bin/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log 
