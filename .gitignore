@@ -20,6 +20,6 @@ bin/
 # OS files
 .DS_Store
 Thumbs.db
-
+..gitignore
 # Logs
 *.log 
